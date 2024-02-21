@@ -1,0 +1,14 @@
+body{margin: 5px;
+padding:8px}
+
+.nav{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoimage{
+    height: 100px;
+    width: 150px;
+}
+
